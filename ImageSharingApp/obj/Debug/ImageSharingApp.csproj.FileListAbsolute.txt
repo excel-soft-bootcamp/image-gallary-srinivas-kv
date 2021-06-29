@@ -1,0 +1,6 @@
+C:\Users\srinivas.kv\source\repos\ImageSharingApp\ImageSharingApp\bin\Debug\ImageSharingApp.exe.config
+C:\Users\srinivas.kv\source\repos\ImageSharingApp\ImageSharingApp\bin\Debug\ImageSharingApp.exe
+C:\Users\srinivas.kv\source\repos\ImageSharingApp\ImageSharingApp\bin\Debug\ImageSharingApp.pdb
+C:\Users\srinivas.kv\source\repos\ImageSharingApp\ImageSharingApp\obj\Debug\ImageSharingApp.csproj.CoreCompileInputs.cache
+C:\Users\srinivas.kv\source\repos\ImageSharingApp\ImageSharingApp\obj\Debug\ImageSharingApp.exe
+C:\Users\srinivas.kv\source\repos\ImageSharingApp\ImageSharingApp\obj\Debug\ImageSharingApp.pdb
